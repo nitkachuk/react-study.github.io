@@ -1,0 +1,2 @@
+в проект установлена css-библиотека "marco-css"
+npm install marco-css
