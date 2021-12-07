@@ -1,0 +1,23 @@
+body {
+  
+}
+
+.fc-red {
+  border: 1px solid red;
+  margin-top: 15px;
+}
+
+.cc-blue {
+  border: 1px solid blue;
+  margin-top: 15px;
+}
+
+.menu-purple {
+  border: 1px solid blue;
+  margin-top: 15px;
+}
+
+.counter-green {
+  border: 1px solid green;
+  margin-top: 15px;
+}
