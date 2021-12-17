@@ -56,6 +56,16 @@ header {
 	border: 1px solid #f2f2f2;
 	border-radius: 10px;
 	padding: 0 15px;
+	position: relative;
+
+	.clear {
+		position: absolute;
+		right: 100;
+		width: 18px;
+		height: 18px;
+		top: 14px;
+		right: 15px;
+	}
 	
 	input {
 		border: 0;
@@ -126,6 +136,14 @@ h2 {
 		&:hover {
 			opacity: 1;
 		}
+	}
+
+	.cartItemImg {
+		width: 100px;
+		height: 100px;
+		margin-right: 20px;
+		background-size: 100%;
+		background-repeat: no-repeat;
 	}
 	
 }
